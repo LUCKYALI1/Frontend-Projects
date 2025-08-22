@@ -12,6 +12,9 @@ Clean code, consistent tooling, and polished UI/animation patterns—ideal for i
 - **Workspace setup**: all projects live under `apps/*` with shared config for linting, formatting, and TS.
 
 ---
+#Projects 
+
+- **GTA VI**: A Landing Page , with a deep parallex effect using GSAP. [Try](https://gtavi-ali.netlify.app/)
 
 ## 🧰 What's inside
 
@@ -19,4 +22,5 @@ Clean code, consistent tooling, and polished UI/animation patterns—ideal for i
 - **Tooling:** ESLint (flat config), Prettier, TypeScript base config, Vite per app.
 - **CI:** GitHub Actions to **lint** and **build** all apps on PRs.
 - **Uniform scripts:** `dev`, `build`, `preview`, `lint` per project.
+
 
